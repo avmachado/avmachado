@@ -1,7 +1,7 @@
-<img src = "images/card.png">
+<img src = "card.png">
 <p align=center> 
-  <a href = "https://www.linkedin.com/in/ana-paula-machado-005/"><img src="images/linkedin.png" width = 30px> </a> 
-  <a href = "https://medium.com/@vieirapmachado"><img src="images/medium.png" width = 30px> </a> 
+  <a href = "https://www.linkedin.com/in/ana-paula-machado-005/"><img src="linkedin.png" width = 30px> </a> 
+  <a href = "https://medium.com/@vieirapmachado"><img src="medium.png" width = 30px> </a> 
 </p>
 
 ### Seja bem vindo (a)!

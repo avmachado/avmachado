@@ -1,4 +1,4 @@
-<img src = "card.png">
+![Capa](card.png)
 <p align=center> 
   <a href = "https://www.linkedin.com/in/ana-paula-machado-005/"><img src="linkedin.png" width = 30px> </a> 
   <a href = "https://medium.com/@vieirapmachado"><img src="medium.png" width = 30px> </a> 

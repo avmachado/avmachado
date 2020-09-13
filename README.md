@@ -12,12 +12,13 @@ Iniciei meus estudos na área de Ciência de Dados em 2019 e me fascino a cada d
 #### Algumas das minhas formações:
 
 - Especialização em Ciência de Dados e Big Data (PUC Minas)
-- Formação Cientista de Dados - FCD (Data Science Academy)
+- Formação Cientista de Dados - FCD (Data Science Academy -  DSA)
 - Bootcamp de Cientista de Dados (IGTI)
 - Bootcamp de Desenvolvedor BI (IGTI)
 
 ### Projetos
 - Python
+  - [Curso Python Fundamentos para Análise de Dados] (https://github.com/avmachado/python-dsa)
 - R
 - Visualização de Dados:
   - [Power BI](https://github.com/avmachado/Dashboards-Power-BI)

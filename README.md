@@ -18,7 +18,7 @@ Iniciei meus estudos na área de Ciência de Dados em 2019 e me fascino a cada d
 
 ### Projetos
 - Python
-  - [Curso Python Fundamentos para Análise de Dados] (https://github.com/avmachado/python-dsa)
+  - [Curso Python Fundamentos para Análise de Dados](https://github.com/avmachado/python-dsa)
 - R
 - Visualização de Dados:
   - [Power BI](https://github.com/avmachado/Dashboards-Power-BI)

@@ -16,6 +16,9 @@ Iniciei meus estudos na área de Ciência de Dados em 2019 e me fascino a cada d
 - Bootcamp de Cientista de Dados (IGTI)
 - Bootcamp de Desenvolvedor BI (IGTI)
 
+#### Curiosidades
+:heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
+
 ### Projetos
 - Python
   - Curso [Python Fundamentos para Análise de Dados](https://github.com/avmachado/python-dsa)
@@ -23,5 +26,4 @@ Iniciei meus estudos na área de Ciência de Dados em 2019 e me fascino a cada d
 - Visualização de Dados:
   - [Power BI](https://github.com/avmachado/Dashboards-Power-BI)
 
-#### Curiosidades
-:heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
+

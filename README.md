@@ -21,9 +21,11 @@ Iniciei meus estudos na área de Ciência de Dados em 2019 e me fascino a cada d
 
 ### Projetos
 - Python
-  - Curso [Python Fundamentos para Análise de Dados](https://github.com/avmachado/python-dsa)
+  - Curso [Python Fundamentos para Análise de Dados](https://github.com/avmachado/python-dsa) - DSA
+  - Curso [Big Data Real Time Analytics com Python e Spark](https://github.com/avmachado/pythonspark) - DSA
 - R
-  - Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa)
+  - Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
+  - Curso [Introduction to Probability and Data with R](https://github.com/avmachado/probability-with-R) - Duke University
 - Visualização de Dados:
   - [Power BI](https://github.com/avmachado/Dashboards-Power-BI)
 

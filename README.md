@@ -20,17 +20,17 @@ Iniciei meus estudos na área de Ciência de Dados em 2020 e me fascino a cada d
 :heart: Gosto bastante de ler, de ouvir um bom rock'n'roll, e dançar carimbó.
 
 ### Repositórios
-- Python
+- <b>Python</b>
   - [Exploração básica de Dados](https://github.com/avmachado/pythonspark/blob/main/Exercicios-Cap03.ipynb)
   - [Exemplo de uso do Pipeline em Machine Learning](https://github.com/avmachado/pythonspark/blob/main/Desafio-Cap06-PCA-LR.ipynb)
   - [Explorando Estruturas de Dados](https://github.com/avmachado/python-dsa/blob/master/cap02-estruturas-de-dados/estruturas-de-dados.ipynb)
   - Explorando [Estruturas Condicionais](https://github.com/avmachado/python-dsa/blob/master/cap03-condicionais-metodos-funcoes/condicionais.ipynb) e [Métodos e Funções](https://github.com/avmachado/python-dsa/blob/master/cap03-condicionais-metodos-funcoes/metodos-funcoes.ipynb)
   - [List Comprehesions e função Lambda](https://github.com/avmachado/python-dsa/blob/master/cap04-arquivos-funcoes-builtin-modulos-pacotes/tratamento-de-arquivos-funcoes-builtin.ipynb)
   - [Análise Exploratória - Mini Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto)
-- R
+- <b>R</b>
   - Exercícios do Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
   - Soluções do curso [Introduction to Probability and Data with R](https://github.com/avmachado/probability-with-R) - Duke University
-- Visualização de Dados:
+- <b>Visualização de Dados</b>
   - [Power BI](https://github.com/avmachado/Dashboards-Power-BI)
 
 

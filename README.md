@@ -27,6 +27,7 @@ Iniciei meus estudos na área de Ciência de Dados em 2020 e me fascino a cada d
   - Explorando [Estruturas Condicionais](https://github.com/avmachado/python-dsa/blob/master/cap03-condicionais-metodos-funcoes/condicionais.ipynb) e [Métodos e Funções](https://github.com/avmachado/python-dsa/blob/master/cap03-condicionais-metodos-funcoes/metodos-funcoes.ipynb)
   - [List Comprehesions e função Lambda](https://github.com/avmachado/python-dsa/blob/master/cap04-arquivos-funcoes-builtin-modulos-pacotes/tratamento-de-arquivos-funcoes-builtin.ipynb)
   - [Análise Exploratória - Mini Projeto](https://github.com/avmachado/python-dsa/tree/master/cap08-analise-exploratoria/mini-projeto)
+  - [Web Scrapping do Reclame Aqui com Selenium](https://github.com/avmachado/webscrapping_reclameaqui)
 - <b>R</b>
   - Exercícios do Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
   - Soluções do curso [Introduction to Probability and Data with R](https://github.com/avmachado/probability-with-R) - Duke University

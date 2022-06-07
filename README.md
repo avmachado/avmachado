@@ -31,6 +31,7 @@ Iniciei meus estudos na área de Ciência de Dados em 2020 e me fascino a cada d
 - <b>R</b>
   - Exercícios do Curso [Big Data Analytics com R e Microsoft Azure Machine Learning](https://github.com/avmachado/r-dsa) - DSA
   - Soluções do curso [Introduction to Probability and Data with R](https://github.com/avmachado/probability-with-R) - Duke University
+  - [Análise Exploratória - Risco de Crédito](https://github.com/avmachado/AED_CreditRisk)
 - <b>Visualização de Dados</b>
   - [Power BI](https://github.com/avmachado/Dashboards-Power-BI)
 
